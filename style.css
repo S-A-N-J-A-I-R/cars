@@ -1,0 +1,749 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+    width: 100%;
+    height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.option{
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.option a{
+    margin: 10px;
+}
+
+.option a button{
+    padding: 3px 8px;
+    border: 2px solid black;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+.tata-logo{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.tata-type{
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.tata-type a{
+    margin: 10px;
+}
+
+.tata-type a button{
+    padding: 3px 8px;
+    border: 2px solid black;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+.tiago img{
+    border-radius: 120px;
+}
+
+.tiago{
+    width: 50%;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.para p{
+    margin-left: 30%;
+    text-align: left;
+    color: white;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+section{
+    width: 100%;
+    height: 500px;
+}
+
+.tiago-text{
+    color: white;
+    width: 50%;
+    height: 500px;
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    gap: 5rem;
+}
+
+#t{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+}
+
+.altroz img{
+    border-radius: 120px;
+}
+
+.altroz{
+    width: 50%;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.altroz-text{
+    color: white;
+    width: 50%;
+    height: 500px;
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    gap: 5rem;
+}
+
+#aa{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.tigor img{
+    border-radius: 120px;
+}
+
+.tigor{
+    width: 50%;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.tigor-text{
+    color: white;
+    width: 50%;
+    height: 500px;
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    gap: 5rem;
+}
+
+#t1{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+}
+
+.nexon img{
+    border-radius: 120px;
+}
+
+.nexon{
+    width: 50%;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.nexon-text{
+    color: white;
+    width: 50%;
+    height: 500px;
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    gap: 5rem;
+}
+
+#a1{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.audi-logo{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 90px;
+}
+
+.audi-type{
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.audi-type a{
+    margin: 10px;
+}
+
+.audi-type a button{
+    padding: 3px 8px;
+    border: 2px solid black;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+.audi-a4 img{
+    border-radius: 120px;
+}
+
+.audi-a4{
+    width: 50%;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.para p{
+    margin-left: 30%;
+    text-align: left;
+    color: white;
+}
+
+section{
+    width: 100%;
+    height: 500px;
+}
+
+.audi-a4-text{
+    color: white;
+    width: 50%;
+    height: 500px;
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    gap: 5rem;
+}
+
+#a{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+}
+
+.audi-a6 img{
+    border-radius: 120px;
+}
+
+.audi-a6{
+    width: 50%;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.para p{
+    margin-left: 30%;
+    text-align: left;
+    color: white;
+}
+
+section{
+    width: 100%;
+    height: 500px;
+}
+
+.audi-a6-text{
+    color: white;
+    width: 50%;
+    height: 500px;
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    gap: 5rem;
+}
+
+#u{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.audi-q7 img{
+    border-radius: 120px;
+}
+
+.audi-q7{
+    width: 50%;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.para p{
+    margin-left: 30%;
+    text-align: left;
+    color: white;
+}
+
+section{
+    width: 100%;
+    height: 500px;
+}
+
+.audi-q7-text{
+    color: white;
+    width: 50%;
+    height: 500px;
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    gap: 5rem;
+}
+
+#d{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+}
+
+.audi-q8 img{
+    border-radius: 120px;
+}
+
+.audi-q8{
+    width: 50%;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.para p{
+    margin-left: 30%;
+    text-align: left;
+    color: white;
+}
+
+section{
+    width: 100%;
+    height: 500px;
+}
+
+.audi-q8-text{
+    color: white;
+    width: 50%;
+    height: 500px;
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    gap: 5rem;
+}
+
+#i{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.bmw-logo{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 90px;
+}
+
+.bmw-type{
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.bmw-type a{
+    margin: 10px;
+}
+
+.bmw-type a button{
+    padding: 3px 8px;
+    border: 2px solid black;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+.bmw-i7 img{
+    border-radius: 120px;
+}
+
+.bmw-i7{
+    width: 50%;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.para p{
+    margin-left: 30%;
+    text-align: left;
+    color: white;
+}
+
+section{
+    width: 100%;
+    height: 500px;
+}
+
+.bmw-i7-text{
+    color: white;
+    width: 50%;
+    height: 500px;
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    gap: 5rem;
+}
+
+#b{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+}
+
+.bmw-x5 img{
+    border-radius: 120px;
+}
+
+.bmw-x5{
+    width: 50%;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.para p{
+    margin-left: 30%;
+    text-align: left;
+    color: white;
+}
+
+section{
+    width: 100%;
+    height: 500px;
+}
+
+.bmw-x5-text{
+    color: white;
+    width: 50%;
+    height: 500px;
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    gap: 5rem;
+}
+
+#m{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.bmw-x7 img{
+    border-radius: 120px;
+}
+
+.bmw-x7{
+    width: 50%;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.para p{
+    margin-left: 30%;
+    text-align: left;
+    color: white;
+}
+
+section{
+    width: 100%;
+    height: 500px;
+}
+
+.bmw-x7-text{
+    color: white;
+    width: 50%;
+    height: 500px;
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    gap: 5rem;
+}
+
+#w{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+}
+
+.bmw-m2 img{
+    border-radius: 120px;
+}
+
+.bmw-m2{
+    width: 50%;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.para p{
+    margin-left: 30%;
+    text-align: left;
+    color: white;
+}
+
+section{
+    width: 100%;
+    height: 500px;
+}
+
+.bmw-m2-text{
+    color: white;
+    width: 50%;
+    height: 500px;
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    gap: 5rem;
+}
+
+#bmw{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.rr-logo{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.rr-type{
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.rr-type a{
+    margin: 10px;
+}
+
+.rr-type a button{
+    padding: 3px 8px;
+    border: 2px solid black;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+.rr-ghost img{
+    border-radius: 120px;
+}
+
+.rr-ghost{
+    width: 50%;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.para p{
+    margin-left: 30%;
+    text-align: left;
+    color: white;
+}
+
+section{
+    width: 100%;
+    height: 500px;
+}
+
+.rr-ghost-text{
+    color: white;
+    width: 50%;
+    height: 500px;
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    gap: 5rem;
+}
+
+#r1{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+}
+
+.rr-phantom img{
+    border-radius: 120px;
+}
+
+.rr-phantom{
+    width: 50%;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.para p{
+    margin-left: 30%;
+    text-align: left;
+    color: white;
+}
+
+section{
+    width: 100%;
+    height: 500px;
+}
+
+.rr-phantom-text{
+    color: white;
+    width: 50%;
+    height: 500px;
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    gap: 5rem;
+}
+
+#r2{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.rr-spectre img{
+    border-radius: 120px;
+}
+
+.rr-spectre{
+    width: 50%;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.para p{
+    margin-left: 30%;
+    text-align: left;
+    color: white;
+}
+
+section{
+    width: 100%;
+    height: 500px;
+}
+
+.rr-spectre-text{
+    color: white;
+    width: 50%;
+    height: 500px;
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    gap: 5rem;
+}
+
+#r3{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+}
+
+.rr-cullinan img{
+    border-radius: 120px;
+}
+
+.rr-cullinan{
+    width: 50%;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.para p{
+    margin-left: 30%;
+    text-align: left;
+    color: white;
+}
+
+section{
+    width: 100%;
+    height: 500px;
+}
+
+.rr-cullinan-text{
+    color: white;
+    width: 50%;
+    height: 500px;
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    gap: 5rem;
+}
+
+#r4{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+
+
